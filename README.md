@@ -1,1 +1,0 @@
-# pyRacetrack-Logger
